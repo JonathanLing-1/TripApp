@@ -1,0 +1,3 @@
+[submodule "Trip_App"]
+	path = Trip_App
+	url = https://github.com/blake-gifford/Trip_App.git
